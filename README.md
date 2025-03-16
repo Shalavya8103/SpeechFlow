@@ -1,0 +1,1 @@
+SpeechFlow is an AI-powered system designed to streamline speech-to-text transcription, text summarization, emotion recognition, and task tracking. It efficiently converts audio into structured text, extracts key insights, detects emotional tone, and organizes tasks for better workflow management.
